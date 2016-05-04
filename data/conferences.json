@@ -1,0 +1,37 @@
+[
+    {
+        "key": "example",
+        "name": "Full conference name",
+        "tags": ["ruby"],
+        "first_event": "yyyy-mm-dd",
+        "last_event": "",
+        "speaker_kit": {
+            "ticket_included": true,
+            "hotel_included": true,
+            "travel_included": true
+        },
+        "events": [
+            {
+                "name": "Name of specific edition",
+                "location": {
+                    "name": "City, State (if applies), Country"
+                },
+                "event_start": "yyyy-mm-dd",
+                "event_end": "yyyy-mm-dd",
+                "call_for_papers_start": "yyyy-mm-dd",
+                "call_for_papers_end": "yyyy-mm-dd",
+                "session_feed": "https://example.com/2016/sessions.json",
+                "speaker_feed": "https://example.com/2016/speakers.json",
+                "hashtag": "#hashtag",
+                "organizers": [
+                    {
+                        "name": "Organizer Name",
+                        "twitter": "@twitter_handle"
+                    }
+                ]
+            }
+        ],
+        "website": "https://example.com",
+        "twitter": "@twitter_handle"
+    }
+]
