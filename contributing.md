@@ -1,15 +1,17 @@
-Como posso contribuir?
+# Como posso contribuir?
 
-Para contribuir e manter toda organização deste projeto, por favor leia com atenção e siga os passos abaixo listados:
+> Para contribuir e manter toda organização deste projeto, por favor leia com atenção e siga os passos abaixo listados:
 
-Faça um Fork deste repositório
+---
 
-Crie uma nova branch com o nome da feature que você irá implementar ou ajustar: git checkout -b new-feature
+* Faça um Fork deste repositório
 
-Commit suas adições e/ou alterações
+* Crie uma nova branch com o nome da feature que você irá implementar ou ajustar: ``git checkout -b new-feature``
 
-Faça o Push para a branch criada: git push origin new-feature
+* Commit suas adições e/ou alterações
 
-Nos Envie um pull request
+* Faça o Push para a branch criada: ``git push origin new-feature``
 
-Pronto, agora é só aguardar a averiguação do seu pull request!
+* Nos Envie um pull request
+
+* Pronto, agora é só aguardar a averiguação do seu pull request!
